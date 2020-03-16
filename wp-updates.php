@@ -3,6 +3,8 @@
 /*
  Plugin Name: WordPress Auto Updates
  Description: Automatically updates WordPress core, plugins, themes and languages.
+ Version: 1.0
+ Author: HansieNL
  */
 
 add_filter( 'auto_update_core', '__return_true' );  
